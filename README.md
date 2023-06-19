@@ -1,4 +1,5 @@
 ### [Salam] Hi there 👋
+<p> My name is Masuma Jaffery, a Pakistani Software Engineer. I'm currently a student at Microverse to become a full-stack developer.</p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lexend&size=22&pause=1000&color=0478F7&width=435&lines=Welcome+To+My+Coding+World!" alt="Typing SVG" /></a>
 <p><img align="right" src="Images/Coder-M.gif" alt="coder-girl" /></p>
 
@@ -17,30 +18,41 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
   </a>
   <a href="https://rubyonrails.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="35" height="3"/>
   </a> 
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>
   </a>
   <a href="https://redux.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="35" height="35"/>
   </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="35" height="35"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" alt="git" width="30" height="30"/>
+    <img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" alt="git" width="35" height="35"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" alt="mysql" width="30" height="30"/>
+    <img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" alt="mysql" width="35" height="35"/>
   </a>
    <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" height="35"/>
   </a>
   <a href="https://webpack.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="35" height="35"/>
   </a>
 </p>
+
+### Wanna know About me more! 🌈
+
+const MasumaJaffery = {
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  pronouns: ["she", "her"],
+  Code: [JavaScript, React, Redux, Ruby, Ruby on Rails, HTML/CSS, Bootstrap, MySql, PHP],
+  askMeAbout: [Writing, Graphic Designing, Movies, Food],
+  challenge: "I'm currently doing the best I can in the Microverse Program",
+  funFacts: ["I love to learn new human and computer languages"],[Gracias Par Microverse! الحمد لله"]
+}
 
 <!--
 **MasumaJaffery/MasumaJaffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile

@@ -1,7 +1,7 @@
 ### [Salam] Hi there 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lexend&size=22&pause=1000&color=0478F7&width=435&lines=Welcome+To+My+Coding+World!" alt="Typing SVG" /></a>
-<p><img align="right" src="Images/Coder-M.gif" alt="coder-girl" width = "180" height = "150" /></p>
+<p><img align="right" src="Images/Coder-M.gif" alt="coder-girl" width = "160" height = "150" /></p>
 
 ### I'm currently learning 🤓
 <p align="left">

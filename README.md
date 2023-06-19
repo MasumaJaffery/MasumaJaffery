@@ -1,8 +1,6 @@
 ### [Salam] Hi there 👋
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lexend&size=22&pause=1000&color=0478F7&width=435&lines=Welcome+To+My+Coding+World!" alt="Typing SVG" /></a>
-<!--
-**MasumaJaffery/MasumaJaffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-p><img align="right" src="https://icons8.com/illustrations/illustration/sammy-line-workflow--animated" alt="coder-girl" /></p>
+<p><img align="right" src="https://icons8.com/illustrations/illustration/sammy-line-workflow--animated" alt="coder-girl" /></p>
 ### I'm currently learning 🤓
 <p align="left">
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/ </a> 
@@ -11,6 +9,8 @@ p><img align="right" src="https://icons8.com/illustrations/illustration/sammy-li
 <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/> </a> </p>
+<!--
+**MasumaJaffery/MasumaJaffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 

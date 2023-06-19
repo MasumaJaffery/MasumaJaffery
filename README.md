@@ -51,7 +51,7 @@ const MasumaJaffery = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   experience: "Experience in remote working as a Microverse student",
   Code: [JavaScript, React, Redux, Ruby, Ruby on Rails, HTML/CSS, Bootstrap, MySql, PHP],
-  askMeAbout: [Travelling, Movies, Food],
+  askMeAbout: [Travel, Movies, Food],
   challenge: "I'm currently doing the best I can in the Microverse Program",
   funFacts: ["I love to learn new human and computer languages", "Gracias Par Microverse!, الحمد لله"]
 }

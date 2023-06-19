@@ -1,5 +1,5 @@
 ### [Salam] Hi there 👋
-<p> My name is Masuma Jaffery, a Pakistani Software Engineer. I'm currently a student at Microverse to become a full-stack developer.</p>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lexend&size=22&pause=1000&color=0478F7&width=435&lines=Welcome+To+My+Coding+World!" alt="Typing SVG" /></a>
 <p><img align="right" src="Images/Coder-M.gif" alt="coder-girl" /></p>
 
@@ -45,15 +45,17 @@
 
 ### Wanna know About me more! 🌈
 
+```javascript
 const MasumaJaffery = {
+  education: "BS in Software Engineering",
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["she", "her"],
+  experience: "Experience in remote working as a Microverse student",
   Code: [JavaScript, React, Redux, Ruby, Ruby on Rails, HTML/CSS, Bootstrap, MySql, PHP],
   askMeAbout: [Writing, Graphic Designing, Movies, Food],
   challenge: "I'm currently doing the best I can in the Microverse Program",
-  funFacts: ["I love to learn new human and computer languages"],[Gracias Par Microverse! الحمد لله"]
+  funFacts: ["I love to learn new human and computer languages", "Gracias Par Microverse!, الحمد لله"]
 }
-
+```
 <!--
 **MasumaJaffery/MasumaJaffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 

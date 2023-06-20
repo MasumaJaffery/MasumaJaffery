@@ -52,11 +52,11 @@ const MasumaJaffery = {
   askMeAbout: [Travel, Movies, Food],
   challenge: "I'm currently doing the best I can in the Microverse Program",
   funFacts: ["I love to learn new human and computer languages", "Gracias Microverse!, الحمد لله"],
-   contact: [
+   contact: {
     email: "masumajaffery1@gmail.com",
     linkedin: "https://www.linkedin.com/in/masuma-jaffery-797a29256/"
-  ]
-}
+ }
+};
 ```
 
 

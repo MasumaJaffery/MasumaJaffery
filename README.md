@@ -1,6 +1,5 @@
-### [Salam] Hi there 👋
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lexend&size=22&pause=1000&color=0478F7&width=435&lines=Welcome+To+My+Coding+World!" alt="Typing SVG" /></a>
+<h1 align="center">Salam, Hi there 👋, I'm Masuma Jaffery!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com? font=Lexend&size=22&pause=1000&color=0478F7&width=435&lines=Welcome+To+My+Coding+World!" alt="Typing SVG" /></a>
 <p><img align="right" src="Images/Coder-M.gif" alt="coder-girl" width = "150" height = "140" /></p>
 
 ### I'm currently learning 🤓
@@ -53,9 +52,15 @@ const MasumaJaffery = {
   Code: [JavaScript, React, Redux, Ruby, Ruby on Rails, HTML/CSS, Bootstrap, MySql, PHP],
   askMeAbout: [Travel, Movies, Food],
   challenge: "I'm currently doing the best I can in the Microverse Program",
-  funFacts: ["I love to learn new human and computer languages", "Gracias Par Microverse!, الحمد لله"]
+  funFacts: ["I love to learn new human and computer languages", "Gracias Microverse!, الحمد لله"]
 }
 ```
+
+## Connect with me:
+## Connect with me:
+[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/masuma-jaffery-797a29256/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/MasumaJaffery)&nbsp;  
+[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/MasumaJaffery)&nbsp;  
+
 <!--
 **MasumaJaffery/MasumaJaffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 

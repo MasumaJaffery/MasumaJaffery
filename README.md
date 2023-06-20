@@ -51,16 +51,14 @@ const MasumaJaffery = {
   Code: [JavaScript, React, Redux, Ruby, Ruby on Rails, HTML/CSS, Bootstrap, MySql, PHP],
   askMeAbout: [Travel, Movies, Food],
   challenge: "I'm currently doing the best I can in the Microverse Program",
-  funFacts: ["I love to learn new human and computer languages", "Gracias Microverse!, الحمد لله"]
+  funFacts: ["I love to learn new human and computer languages", "Gracias Microverse!, الحمد لله"],
+   contact: [
+    email: "masumajaffery1@gmail.com",
+    linkedin: "https://www.linkedin.com/in/masuma-jaffery-797a29256/"
+  ]
 }
 ```
-## Connect with me
-<p align="center">
-    <a href="https://masumajaffery.github.io/Portfolio/"><img alt="YourWebsite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-    <a href="https://www.linkedin.com/in/masuma-jaffery-797a29256/"><img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" /></a>
-    <a href="mailto:masumajaffery1@gmail.com"><img alt="Gmail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" /></a>
-    <a href="https://github.com/MasumaJaffery"><img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/mark-github.svg" /></a>
-</p>
+
 
 
 <!--

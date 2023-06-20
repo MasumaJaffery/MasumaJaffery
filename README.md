@@ -55,8 +55,6 @@ const MasumaJaffery = {
   funFacts: ["I love to learn new human and computer languages", "Gracias Microverse!, الحمد لله"]
 }
 ```
-
-## Connect with me:
 ## Connect with me:
 [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/masuma-jaffery-797a29256/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/MasumaJaffery)&nbsp;  
 [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/MasumaJaffery)&nbsp;  

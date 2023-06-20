@@ -1,4 +1,4 @@
-<h1 align="center">Salam, Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Masuma Jaffery!</h1>
+<h1 align="center">Salam! Hi there, I'm Masuma Jaffery <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p><img align="right" src="Images/Coder-M.gif" alt="coder-girl" width = "150" height = "140" /></p>
 
@@ -43,7 +43,6 @@
 </p>
 
 ### Wanna know About me more? 🌈
-
 ```javascript
 const MasumaJaffery = {
   education: "BS in Software Engineering",
@@ -55,8 +54,14 @@ const MasumaJaffery = {
   funFacts: ["I love to learn new human and computer languages", "Gracias Microverse!, الحمد لله"]
 }
 ```
-## Connect with me:
-  
+## Connect with me
+<p align="center">
+    <a href="https://masumajaffery.github.io/Portfolio/"><img alt="YourWebsite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+    <a href="https://www.linkedin.com/in/masuma-jaffery-797a29256/"><img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" /></a>
+    <a href="mailto:masumajaffery1@gmail.com"><img alt="Gmail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" /></a>
+    <a href="https://github.com/MasumaJaffery"><img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/mark-github.svg" /></a>
+</p>
+
 
 <!--
 **MasumaJaffery/MasumaJaffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile

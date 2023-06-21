@@ -1,5 +1,5 @@
 <h1 align="center">Salam! Hi there, I'm Masuma Jaffery <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jost&size=24&pause=1000&color=1D68F7&width=435&lines=Welcome+to+My+Coding+World!" alt="Typing SVG" align = "center" /></a>
+<p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jost&size=26&pause=1000&color=1D68F7&width=435&lines=Welcome+to+My+Coding+World!" alt="Typing SVG" /></a></p>
 <p><img align="right" src="Images/Coder-M.gif" alt="coder-girl" width = "150" height = "140" /></p>
 
 ### I'm currently learning 🤓

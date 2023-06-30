@@ -1,5 +1,5 @@
 <h1 align="center">Salam! Hi there, I'm Masuma Jaffery <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jost&size=28&pause=1000&color=1D68F7&width=435&lines=Welcome+to+My+Coding+World!;Practice+makes+knowledge+Perfect." alt="Typing SVG" /></a></p>
+<p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jost&size=28&pause=1000&color=1D68F7&width=435&lines=Practice+makes+knowledge+Perfect." alt="Typing SVG" /></a></p>
 <p><img align="right" src="Images/Coder-M.gif" alt="coder-girl" width = "150" height = "140" /></p>
 
 ### I'm currently learning 🤓
@@ -48,7 +48,7 @@ const MasumaJaffery = {
   education: "BS in Software Engineering",
   lookingFor: "Front-end developer" || "Full-stack web developer",
   experience: "Experience in remote working as a Microverse student",
-  code: [JavaScript, React, Redux, Ruby, Ruby on Rails, HTML/CSS, Bootstrap, MySql, PHP],
+  code: [HTML, CSS, Bootstrap, JavaScript, React, Redux, Ruby, Ruby on Rails, MySql, PHP],
   askMeAbout: [Travel, Movies, Food],
   challenge: "I'm currently doing the best I can in the Microverse Program",
   funFacts: ["I love to learn new human and computer languages", "Gracias Microverse!, الحمد لله"]

@@ -44,7 +44,7 @@
 
 ### Wanna know About me more? 🌈
 ```javascript
-const MasumaJaffery = {
+const MasumaJaffery = { 
   education: "BS in Software Engineering",
   lookingFor: "Front-end developer" || "Full-stack web developer",
   experience: "Experience in remote working as a Microverse student",

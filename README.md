@@ -1,7 +1,7 @@
 <h1 align="center">Salam! Hi there, I'm Masuma Jaffery <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jost&size=28&pause=1000&color=1D68F7&width=435&lines=Practice+makes+knowledge+Perfect." alt="Typing SVG" /></a></p>
-<p><img align="right" src="Images/Coder-M.gif" alt="coder-girl" width = "150" height = "140" /></p>
-![Profile viewers](https://komarev.com/ghpvc/?username=MasumaJaffery&color=blue)         
+<p><img align="right" src="Images/Coder-M.gif" alt="coder-girl" width = "150" height = "140" /></p>   
+<a href = "https://komarev.com/ghpvc/?username=MasumaJaffery&color=blue"></a>
 ### I'm currently learning 🤓
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">

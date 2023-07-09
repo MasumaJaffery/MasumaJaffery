@@ -4,6 +4,10 @@
 <a href="https://komarev.com/ghpvc/?username=MasumaJaffery&color=blue">
   <img src="https://komarev.com/ghpvc/?username=MasumaJaffery&color=blue" alt="Profile viewers">
 </a>
+<a href="https://github.com/MasumaJaffery">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/MasumaJaffery?style=social">
+</a>
+
 
 ### I'm currently learning 🤓
 <p align="left">

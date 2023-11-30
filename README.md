@@ -61,7 +61,6 @@ const MasumaJaffery = {
   funFacts: ["I love to learn new human and computer languages", "Gracias Microverse!, الحمد لله"]
 };
 ```
-
 <!--
 **MasumaJaffery/MasumaJaffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 

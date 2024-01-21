@@ -55,7 +55,7 @@ const MasumaJaffery = {
   education: "BS in Software Engineering 2022 && Microanut 2023-24",
   lookingFor: "Front-end developer" || "Full-stack web developer",
   experience: "Experience in remote working as a Microverse student",
-  code: [HTML, CSS, Bootstrap, JavaScript, React, Redux, Ruby, Ruby on Rails, MySql, PHP, Postgresql, Figma, Flutter],
+  code: [HTML, CSS, Bootstrap, JavaScript, React, Redux, Ruby, Ruby on Rails, MySql, PHP, Postgresql, Flutter, Figma],
   askMeAbout: [Travel, Movies, Food],
   challenge: "I'm currently doing the best I can in the Microverse Program",
   funFacts: ["I love to learn new human and computer languages", "Gracias Microverse!, الحمد لله"]

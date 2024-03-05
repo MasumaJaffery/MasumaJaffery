@@ -52,7 +52,7 @@
 ### Wanna know About me more? 🌈
 ```javascript
 const MasumaJaffery = { 
-  education: "BS in Software Engineering 2022 && Microanut 2023-24 && Interns-School 2024 ",
+  education: "BS in Software Engineering 2022 && Microanut 2023-24",
   lookingFor: "Front-end developer" || "Full-stack web developer",
   experience: "Experience in remote working as a Microverse student",
   code: [HTML, CSS, Bootstrap, JavaScript, React, Redux, Ruby, Ruby on Rails, MySql, PHP, Postgresql, Flutter, Figma ],

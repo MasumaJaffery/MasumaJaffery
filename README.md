@@ -60,7 +60,7 @@
 
 ### Wanna know About me more? 💖
 ```javascript
-const MasumaJaffery = {
+const MasumaJaffery  = {
   gratefulToBe: "🌈 خادم إِلْ ياسين" ,  
   education: "BS in Software Engineering 2022 && Microanut 2023-24, Buildspace s5 => ICodeDreams 2024, SheCodes 2024-25",
   lookingFor: "Front-end developer" || "Full-stack web developer",

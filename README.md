@@ -11,7 +11,7 @@
 
 ### I'm currently learning 🤓
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
+  <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -61,7 +61,7 @@
 ### Wanna know About me more? 💖
 ```javascript
 const MasumaJaffery  = {  
-  gratefulToBe: "🌈 خادم إِلْ ياسين", 
+  gratefulToBe: "🌈 خادم إِلْ ياسين",  
   education: "BS in Software Engineering 2022 && Microanut 2023-24, Buildspace s5 => ICodeDreams 2024, SheCodes 2024-25",
   lookingFor: "Front-end developer" || "Full-stack web developer",
   experience: "Experience in remote working as a Microverse student",

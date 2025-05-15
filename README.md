@@ -68,7 +68,7 @@ const MasumaJaffery = {
   code: [HTML, CSS, Bootstrap, JavaScript, React, Redux, Ruby, Ruby on Rails, MySql, PHP, Postgresql, Python, Flutter, Figma],
   askMeAbout: [Travel, Movies, Food, Writing], 
   challenge: "I'm currently learning AI Generative Semantics + Python",
-  funFacts: ["I love to learn new human and computer languages","Gracias Microverse!, الحمد لله"] 
+  funFacts: ["I love to learn new human and computer languages","Gracias Microverse!, الحمد لله"]  
 };
 ```
 <!--

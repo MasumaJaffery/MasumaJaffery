@@ -69,7 +69,7 @@ const MasumaJaffery = {
   askMeAbout: [Travel, Movies, Food, Writing], 
   challenge: "I'm currently learning AI Generative Semantics + Python",    
   funFacts: ["Before an decade I am International Dolls Collector Now I am Software Engineer , الحمد لله"]          
-}; 
+};  
 ```
 <!--
 **MasumaJaffery/MasumaJaffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile

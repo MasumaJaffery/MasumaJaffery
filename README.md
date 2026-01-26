@@ -8,7 +8,7 @@
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/MasumaJaffery?style=social">  
 </a>
   
-  
+  ![GitHub Strike](https://github-strike.vercel.app/api/strike/MasumaJaffery?theme=aurora&hide_border=true)
 ### I'm currently learning 🤓   
 <p align="left">   
   <a href="https://www.w3.org/html/" target="_blank">  

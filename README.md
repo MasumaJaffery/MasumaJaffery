@@ -7,7 +7,30 @@
 <a href="https://github.com/MasumaJaffery">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/MasumaJaffery?style=social">  
 </a>
-  
+  ---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasumaJaffery&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=FF79C6&text_color=FFFFFF)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasumaJaffery&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=FFFFFF)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasumaJaffery&theme=radical&hide_border=true&background=0D1117&stroke=FF79C6&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6)
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=MasumaJaffery&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+### 📊 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MasumaJaffery&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF79C6&line=FF79C6&point=FFFFFF)
+
+</div>
+
+---
   ![GitHub Strike](https://github-strike.vercel.app/api/strike/MasumaJaffery?theme=aurora&hide_border=true)
 ### I'm currently learning 🤓   
 <p align="left">   

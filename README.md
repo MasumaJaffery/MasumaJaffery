@@ -61,7 +61,7 @@
 ```javascript
 const MasumaJaffery = {
   gratefulToBe: "🌈 خادم آلِ يـٰس",                      
-  education: "BS in Software Engineering 2022 && Microanut 2023-24, Buildspace s5 => ICodeDreams 2024, SheCodes 2024-25",
+  education: "BS in Software Engineering && Microanut, Buildspace s5 => ICodeDreams 2024, SheCodes 2024-25",
   lookingFor: "Front-end developer" || "Full-stack web developer",  
   experience: "Experience in remote working as a Microverse student",  
   code: [HTML, CSS, Bootstrap, JavaScript, React, Redux, Ruby, Ruby on Rails, MySql, PHP, Postgresql, Python, Flutter, Figma],

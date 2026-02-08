@@ -3,7 +3,7 @@
 <p><img align="right" src="Images/Coder-M.gif" alt="coder-girl" width = "150" height = "140" /></p>   
 <a href="https://komarev.com/ghpvc/?username=MasumaJaffery&color=blue">
   <img src="https://komarev.com/ghpvc/?username=MasumaJaffery&color=blue" alt="Profile viewers">
-</a>
+</a> 
 <a href="https://github.com/MasumaJaffery">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/MasumaJaffery?style=social">  
 </a>

@@ -7,7 +7,7 @@
 <a href="https://github.com/MasumaJaffery">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/MasumaJaffery?style=social">  
 </a> 
- 
+  
 ### I'm currently learning 🤓      
 <p align="left">      
   <a href="https://www.w3.org/html/" target="_blank">       

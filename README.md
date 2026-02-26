@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ![GitHub Strike](https://github-strike.flukebase.me/api/strike/MasumaJaffery)
 
 <p align="center">
- ![GitHub Strike](https://github-strike.flukebase.me/api/strike/MasumaJaffery)
 </p>

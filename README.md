@@ -57,18 +57,21 @@
   </a>
 </p>
 
-### Wanna know About me more? 💖
 ```javascript
-const MasumaJaffery = {
-  gratefulToBe: "🌈 خادم آلِ يـٰس",                      
-  education: "BS in Software Engineering && Microanut, Buildspace s5 => ICodeDreams 2024, SheCodes 2024-25",
-  lookingFor: "Front-end developer" || "Full-stack web developer",  
-  experience: "Experience in remote working as a Microverse student",  
-  code: [HTML, CSS, Bootstrap, JavaScript, React, Redux, Ruby, Ruby on Rails, MySql, PHP, Postgresql, Python, Flutter, Figma],
-  askMeAbout: [Travel, Movies, Food, Writing], 
-  challenge: "I'm currently learning AI Generative Semantics + Python",     
-  funFacts:["Before an decade I am International Dolls Collector Now I am Software Engineer , الحمد لله"]           
-};  
+import SoftwareDeveloper from 'iCodeDreams';
+import { Languages, Frameworks } from 'Microverse/skills';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Syeda Masuma Fatima';
+  title    = 'Software Engineer || Founder || خادم آلِ يـٰس ';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'TypeScript', 'Ruby on Rails', ...Languages];
+  databases  = ['MySQL', 'Firebase', 'PostgreSQL'];
+  frameworks = ['React', 'Next.js', 'Elementor', 'Nest.js', ...Frameworks];
+}
+
 ```
 <!--
 **MasumaJaffery/MasumaJaffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile

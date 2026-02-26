@@ -89,8 +89,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats-rho-eight.vercel.app?user=MasumaJaffery&theme=rainbow&hide_border=true&background=FFFFFF" 
-    alt="GitHub Streak" 
-    style="max-width: 100%;">
+ ![GitHub Strike](https://github-strike.flukebase.me/api/strike/MasumaJaffery)
 </p>

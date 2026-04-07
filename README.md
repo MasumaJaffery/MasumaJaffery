@@ -89,6 +89,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ![GitHub Strike](https://github-strike.flukebase.me/api/strike/MasumaJaffery)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MasumaJaffery&short_numbers=true)](https://git.io/streak-stats)
 <p align="center">
 </p>

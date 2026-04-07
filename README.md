@@ -89,8 +89,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div class="flex">
- ![GitHub Strike](https://github-strike.flukebase.me/api/strike/MasumaJaffery)
-[![GitHub Streak](https://streak-stats.demolab.com?user=MasumaJaffery&short_numbers=true)](https://git.io/streak-stats)
+    <img src="https://github-strike.flukebase.me/api/strike/MasumaJaffery" alt="GitHub Streak">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=MasumaJaffery&short_numbers=true" alt="GitHub Streak Stats">
+    </a>
 </div>
 <p align="center">
 </p>

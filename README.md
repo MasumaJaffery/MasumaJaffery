@@ -64,6 +64,7 @@ import { Languages, Frameworks } from 'Microverse/skills';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Syeda Masuma Fatima';
+  nickname = 'Guriya Zehra';
   title    = 'Software Engineer || Founder || خادم آلِ يـٰس ';
 }
 

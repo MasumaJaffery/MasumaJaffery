@@ -8,16 +8,16 @@
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/MasumaJaffery?style=social">  
 </a>  
       
-            
-### I'm currently learning 🤓    
-<p align="left">       
+### I'm currently learning 🤓
+
+<div style="display: flex; flex-wrap: nowrap; align-items: center; gap: 8px;">       
   <a href="https://www.w3.org/html/" target="_blank">       
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">   
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
   </a> 
-   <a href="https://getbootstrap.com/" target="_blank">
+  <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -41,22 +41,22 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" alt="mysql" width="30" height="30"/>
   </a>
-   <a href="https://www.php.net/" target="_blank">
+  <a href="https://www.php.net/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
   </a>
-   <a href="https://flutter.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30"/>
-</a>
- <a href="https://www.figma.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
-</a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
+  </a>
   <a href="https://www.python.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30"/>
-</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30"/>
+  </a>
   <a href="https://webpack.js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="35" height="35"/>
   </a>
-</p>
+</div>            
 
 ```javascript
 import SoftwareDeveloper from 'iCodeDreams';
